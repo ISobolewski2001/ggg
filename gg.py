@@ -1,2 +1,3 @@
-print "sex
+print "seks
+
 "
